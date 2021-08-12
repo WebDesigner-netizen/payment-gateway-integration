@@ -27,7 +27,6 @@
 
 ![Payment Success Redirect](imgs/PaymentSuccess.png)
 
-![Page Layout](imgs/PageLayout.gif)
 
 <h2>Languages Used</h2>
 
