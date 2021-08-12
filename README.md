@@ -3,6 +3,7 @@
 <h1>Task</h1>
 
 > Charity Page Design With Payment Gateway Integration (Donate Button)
+> Website - [Saved Dreams Charity](https://webdesigner-netizen.github.io/payment-gateway-integration/ "Saved Dreams Charity")
 
 <h2>Table of Contents</h2>
 
@@ -24,5 +25,14 @@
 
 ![Payment Success](imgs/Payment.png)
 
-
 ![Payment Success Redirect](imgs/PaymentSuccess.png)
+
+
+<h2>Languages Used</h2>
+
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+
+<h2>Status</h2>
