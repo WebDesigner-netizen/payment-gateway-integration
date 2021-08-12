@@ -18,4 +18,4 @@
 
 <h2>Images</h2>
 
-![](imgs/Donation.png)
+![](imgs/HomePage.png)
