@@ -21,3 +21,8 @@
 ![HomePage of Website](imgs/HomePage.png)
 
 ![Donation Page](imgs/Donation.png)
+
+![Payment Success](imgs/Payment.png)
+
+
+![Payment Success Redirect](imgs/PaymentSuccess.png)
